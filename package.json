@@ -5,8 +5,7 @@
   "scripts": {
     "build": "cd frontend && npm install && npm run build",
     "dev:backend": "cd backend && npm run dev",
-    "dev:frontend": "cd frontend && npm run dev",
-    "seed": "cd backend && npm run seed"
+    "dev:frontend": "cd frontend && npm run dev"
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",
